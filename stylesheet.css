@@ -90,3 +90,25 @@
 .album-container:not(:hover) .album.album--latest .album-description {
     display: block;
 }
+
+@media only screen and (max-width: 680px) {
+    .album-container {
+        flex-direction: column;
+        margin: 0;
+        width: 100%;
+        align-items: center;
+        padding-bottom: 150px;
+    }
+    .album {
+        margin: 25px 0;
+    }
+    .album-description {
+        display: block !important;
+    }
+}
+
+
+/* listen page */
+.page-watch {
+    padding-bottom: 150px;
+}
