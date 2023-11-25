@@ -7,7 +7,7 @@
 .page-home {
     background-color: #030304;
 }
-.page-read {
+.page-learn {
     background-color:#f06eaa;
 }
 .page-live {
@@ -42,7 +42,7 @@
     flex-basis:70%;
     padding-right:15px;
 }
-.row .button-read {
+.row .button-learn {
     flex-basis:30%;
 }
 .row .button-listen {
