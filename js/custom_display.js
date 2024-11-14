@@ -1,6 +1,6 @@
 // Edit your ics sources here
 ics_sources = [
-    {url:'https://calendar.google.com/calendar/ical/waldronandyj%40gmail.com/private-e17f386746fa15748ce4584c281f0a7e/basic.ics', title:'Main Calendar', event_properties:{color: 'SeaGreen'}},
+    {url:'https://calendar.google.com/calendar/ical/ud3dvpp8165vpj6vs76oaa5kq8%40group.calendar.google.com/public/basic.ics', title:'Bands', event_properties:{color: 'SeaGreen'}},
     {url:'https://nomagic.uk/calendars/gov.uk/events.ics', title: 'UK Bank Holidays in England and Wales', event_properties: {color: 'DodgerBlue'}},
     {url:'https://nomagic.uk/calendars/gouv.fr/events.ics', title: 'French Bank Holidays in Metropole', event_properties: {color: 'DeepPink'}}
 ]
